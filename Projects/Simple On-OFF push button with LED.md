@@ -1,7 +1,5 @@
 ## Wiring
-```
-
-```
+![ Circuit ](https://github.com/Dushyantsingh-ds/embedded/blob/main/Projects/Assets/Push%20Button%20SS.png)
 ## Code 
 ```
 int led = A1;  
