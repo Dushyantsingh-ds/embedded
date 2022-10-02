@@ -1,5 +1,21 @@
-## Embedded System Project:
+## Embedded
 
+## Concept
+<details>
+<summary>Click to expand!</summary>
+   
+</details>   
+
+## Concept Projects
+<details>
+<summary>Click to expand!</summary>
+   
+</details>  
+
+## Projects
+<details>
+<summary>Click to expand!</summary>
+  
 ### 1. IoT projects
    - Smart Agriculture System
    - Home Automation System.
@@ -29,4 +45,5 @@
    - DC controllers
    - Chargers
 
+</details>
    
