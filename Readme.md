@@ -21,6 +21,34 @@
  
 </details>  
 
+## Components
+<details>
+<summary>Click to expand!</summary>
+   
+### PHOTOCOUPLER/OCTOCOUPLER : Isolation
+   
+| Name | Pins | Input Pins | Output pins | Oprating Volts | Amps| ANODE/CATHODE/EMITTER/COLLECTOR/GATE |
+| :--- | :---:|  :---:     |  :---:      |  :---:         | :---: |          :---:                      |
+| TLP281 | 4  |   2        |     2       | 5 V-dc AN-CA   | 300 mah| 5-9 v-dc / EM-CL |
+| TLP281-4 | 16 | 8 | 8 | 5V-dc AN-CA |  300 mah | 5-9 v-dc / EM-CL   |
+   
+### Driver IC: Motor Driver/ Realy Driver : 
+
+| Name | Pins | Input Pins | Output pins | Oprating Volts | Amps| ANODE/CATHODE/EMITTER/COLLECTOR/GATE |
+| :--- | :---:|  :---:     |  :---:      |  :---:         | :---: |          :---:                      |
+| ULN2003 | 16  |   8       |     8       | 5 V-dc AN-CA   | 500 mah| 5-9 v-dc / EM-CL |
+| ULN2803APG | 16  |   8       |     8       | 5 V-dc AN-CA   | 500 mah| 5-9 v-dc / EM-CL |
+
+### I2C IC | Communcation IC/ IO expender 
+| Name | Pins | Input Pins | Output pins | Oprating Volts | 
+| :--- | :---:|  :---:     |  :---:      |  :---:         |
+| PCF8574 | 16  |   8       |    4      | 5 V-dc AN-CA   |
+   
+   
+   
+</details>
+   
+   
 ## Projects
 <details>
 <summary>Click to expand!</summary>
