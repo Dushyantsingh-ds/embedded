@@ -802,7 +802,8 @@ void loop() {
   }
   delay(1000);                       // wait for a second
 }
-                            ```
-    </details>                          
+```
+</details>
 
+ 
   ![rest](https://github.com/Dushyantsingh-ds/embedded/blob/main/Projects/Assets/Bootloeader%20Result.jpeg)
