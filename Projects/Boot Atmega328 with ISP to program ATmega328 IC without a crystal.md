@@ -1,5 +1,6 @@
 # Using Arduino board as ISP to program ATmega328 IC without a crystal.md
 
+Reffrance : https://medium.com/@srmq/using-arduino-board-as-isp-to-program-atmega328-ic-without-a-crystal-667ef0fccf4
 
 |     Function      | MEGA 2560 | UNO |  AT 328P  |
 | :--- | :---:|  :---:     |  :---:      |  
