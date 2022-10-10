@@ -18,6 +18,7 @@
 [- Serial communication with Voltage & Current Sensor ](https://github.com/Dushyantsingh-ds/embedded/blob/main/Projects/Serial%20communication%20with%20Voltage%20%26%20Current%20Sensor%20Mega%202650.md  )  </br>
 [- Simple On-OFF push button with LED ]( https://github.com/Dushyantsingh-ds/embedded/blob/main/Projects/Simple%20On-OFF%20push%20button%20with%20LED.md)  </br>
  [- Single phase Square Wave Generator Up to 1MHz](https://github.com/Dushyantsingh-ds/embedded/blob/main/Projects/Square%20Wave%20Generator%20Up%20to%201MHz%20.md)</br>
+  [- Using Arduino board as ISP to program ATmega328 IC without a crystal]()</br>
  
 </details>  
 
