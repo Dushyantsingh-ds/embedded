@@ -1,6 +1,6 @@
 ## Wiring
 ![ Circuit ](https://github.com/Dushyantsingh-ds/embedded/blob/main/Projects/Assets/Schematic_differential%20Input%20Signal%20Circuit_2022-10-29.png)
-[Download PDF](https://github.com/Dushyantsingh-ds/embedded/blob/main/Projects/Assets/Schematic_differential%20Input%20Signal%20Circuit_2022-10-29%20(3).pdf)
+[Download PDF](https://github.com/Dushyantsingh-ds/embedded/blob/main/Projects/Assets/Schematic_differential%20Input%20Signal%20Circuit_2022-10-29.pdf)
 
 ## Code 
 ```
