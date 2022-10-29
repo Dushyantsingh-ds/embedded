@@ -20,7 +20,7 @@
  [- Single phase Square Wave Generator Up to 1MHz](https://github.com/Dushyantsingh-ds/embedded/blob/main/Projects/Square%20Wave%20Generator%20Up%20to%201MHz%20.md)</br>
   [- Using Arduino board as ISP to program ATmega328 IC without a crystal](https://github.com/Dushyantsingh-ds/embedded/blob/main/Projects/Boot%20Atmega328%20with%20ISP%20to%20program%20ATmega328%20IC%20without%20a%20crystal.md)</br>
   [- Method 2- Boot Atmega328 with ISP to program ATmega328 IC with a crystal.md](https://github.com/Dushyantsingh-ds/embedded/blob/main/Projects/Method%202-%20Boot%20Atmega328%20with%20ISP%20to%20program%20ATmega328%20IC%20with%20a%20crystal.md)</br>
- 
+   [- Differential Input Signal Circuit - 12v to 5v.md](https://github.com/Dushyantsingh-ds/embedded/blob/main/Projects/Differential%20Input%20Signal%20Circuit%20%20-%2012v%20to%205v.md)</br>
 </details>  
 
 ## Components
