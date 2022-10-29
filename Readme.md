@@ -21,6 +21,7 @@
   [- Using Arduino board as ISP to program ATmega328 IC without a crystal](https://github.com/Dushyantsingh-ds/embedded/blob/main/Projects/Boot%20Atmega328%20with%20ISP%20to%20program%20ATmega328%20IC%20without%20a%20crystal.md)</br>
   [- Method 2- Boot Atmega328 with ISP to program ATmega328 IC with a crystal.md](https://github.com/Dushyantsingh-ds/embedded/blob/main/Projects/Method%202-%20Boot%20Atmega328%20with%20ISP%20to%20program%20ATmega328%20IC%20with%20a%20crystal.md)</br>
    [- Differential Input Signal Circuit - 12v to 5v.md](https://github.com/Dushyantsingh-ds/embedded/blob/main/Projects/Differential%20Input%20Signal%20Circuit%20%20-%2012v%20to%205v.md)</br>
+      [- ULN2003 for 12v relay and MCU controlled - 5v to 12v.md](https://github.com/Dushyantsingh-ds/embedded/blob/main/Projects/ULN2003%20for%2012v%20relay%20and%20MCU%20controlled.md)</br>
 </details>  
 
 ## Components
