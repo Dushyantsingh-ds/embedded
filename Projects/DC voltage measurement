@@ -1,0 +1,34 @@
+## Wiring
+![ Circuit ](--)
+[Download PDF](--)
+
+## Code 
+```
+int analogInputPin = A2;
+float vArduino = 0.0;
+float vActual = 0.0;
+float R1 = 220000.0;
+float R2 = 10470.0;
+int rawValueRead= 0;
+   
+void setup()
+{
+pinMode(analogInputPin, INPUT);
+Serial.begin(9600);
+Serial.println("DC VOLTMETER"); 
+}
+ 
+void loop()
+{
+rawValueRead = analogRead(analogInputPin);
+vArduino = (rawValueRead * 5.0) / 102.0;
+vActual = vArduino / (R2/(R1+R2));
+Serial.print("Vdc = ");
+Serial.println(vActual,);
+delay(500);
+}
+```
+
+## Wiring
+![ Circuit ](--)
+
